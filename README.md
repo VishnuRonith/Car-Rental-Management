@@ -61,7 +61,4 @@ GET - /getCar?id= <carId>
 
 
 Note:
-
-The application name should be application.
-
 Store the value in the MySQL
