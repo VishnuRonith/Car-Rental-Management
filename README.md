@@ -27,7 +27,7 @@ Request Body:
 
 Edit a Car Details
 
-POST - /editCar?id= <carId>
+POST - /editCar?id=carId
 
 Request Body:
 
@@ -45,7 +45,7 @@ Request Body:
 
 Delete a Car
 
-GET - /deleteCar?id=<carId>
+GET - /deleteCar?id=carId
 
 
 
@@ -57,7 +57,7 @@ GET - /getCars
   
 Get Car By ID
 
-GET - /getCar?id= <carId>
+GET - /getCar?id=carId
 
 
 Note:
